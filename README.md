@@ -1,4 +1,4 @@
-# flutter_application_1
+# Rock paper scissors!
 
 A new Flutter project.
 
